@@ -1,7 +1,13 @@
 ## Michael Fuller
 #### Full-Stack Developer
 
-[resume](./assets/updatedResume.docx)
+Here, you can find my most recent [resume](./assets/updatedResume.docx).
+
+![crochetProject](./assets/crochet.png)
+Python Project can be found [here](http://ec2-18-233-169-51.compute-1.amazonaws.com/).
+
+![Reactjs](./assets/lemonMade.png)
+MERN project can be found[here](http://ec2-54-234-163-175.compute-1.amazonaws.com/).
 
 You can use the [editor on GitHub](https://github.com/Michaelafuller/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
