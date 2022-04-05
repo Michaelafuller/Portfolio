@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Michael Fuller
+#### Full-Stack Developer
+
+[resume](./assets/updatedResume.docx)
 
 You can use the [editor on GitHub](https://github.com/Michaelafuller/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
