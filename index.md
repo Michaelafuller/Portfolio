@@ -47,4 +47,5 @@ C# project can be found [here](http://ec2-3-89-75-4.compute-1.amazonaws.com/).
 I hope to hear from you, whatever the occasion.
 
 michaelfuller3@u.boisestate.edu
+
 [LinkedIn](https://www.linkedin.com/in/michael-fuller-486b211b8/)
