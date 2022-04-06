@@ -1,4 +1,4 @@
-## Michael Fuller
+# Michael Fuller
 #### Full-Stack Developer
 
 Here, you can find my most recent [resume](./assets/updatedResume.docx).
