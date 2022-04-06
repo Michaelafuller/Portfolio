@@ -18,6 +18,7 @@ Below, I have posted some links to full-stack web apps that I have developed. Th
 * Community Message Board with async message posting
 * Video tutorials
 * Reactjs drawing tool
+
 ![crochetProject](./assets/crochet.png)
 Python Project can be found [here](http://ec2-18-233-169-51.compute-1.amazonaws.com/).
 
@@ -26,6 +27,7 @@ Python Project can be found [here](http://ec2-18-233-169-51.compute-1.amazonaws.
 * React Native companion mobile app
 * Many-to-many relationship with MongoDb
 * React Native animations
+
 ![Reactjs](./assets/lemonMade.png)
 MERN project can be found [here](http://ec2-54-234-163-175.compute-1.amazonaws.com/).
 
@@ -35,6 +37,7 @@ MERN project can be found [here](http://ec2-54-234-163-175.compute-1.amazonaws.c
 * Javascript menu animation / functionality
 * Automatic email receipt upon transaction
 * Automatic timeout / logout
+
 ![cSharp](./assets/globalATM.png)
 C# project can be found [here](http://ec2-3-89-75-4.compute-1.amazonaws.com/).
 
