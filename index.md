@@ -3,7 +3,7 @@
 
 #### Hello!
 I am an aspiring full-stack developer with a passion for emerging technologies, and how to apply those technologies for the greater good.
-It has been a fairly circuitous path for me, beginning with four years in the US Marine Corps in the telecommunications field. Then, I had a short career in education, where I tried my hand at teaching English at a local high school. For a change in pace, I began working in the plumbing and welding industry. While welding has always been a hobby of mine, I found myself ready for yet another change. In the past, I often considered software development to beyond my capabilities. Recently, however, I decided to put that fear to the test, enrolled in some courses, and now I finally feel that I am on track towards a career both intrinsically rewarding and intellectually challenging. 
+It has been a fairly circuitous path for me, beginning with four years in the US Marine Corps in the telecommunications field. Then, I had a short career in education, where I tried my hand at teaching English at a local high school. For a change in pace, I began working in the plumbing and welding industry. While welding has always been a hobby of mine, I found myself ready for yet another change. In the past, I often considered software development to be beyond my capabilities. Recently, however, I decided to put that fear to the test, enrolled in some courses, and now I finally feel that I am on track towards a career both intrinsically rewarding and intellectually challenging. 
 
 I look forward to getting to know you!
 
