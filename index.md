@@ -13,12 +13,17 @@ Here, you can find my most recent [resume](./assets/updatedResume.docx).
 ## Projects
 Below, I have posted some links to full-stack web apps that I have developed. These are constantly in flux, growing as my own abilities do, so please forgive me if the link is temporarily broken! Try again soon, I assure you that it will be back up, with further development. 
 
+### Python
 ![crochetProject](./assets/crochet.png)
 Python Project can be found [here](http://ec2-18-233-169-51.compute-1.amazonaws.com/).
 
+
+### MERN
 ![Reactjs](./assets/lemonMade.png)
 MERN project can be found [here](http://ec2-54-234-163-175.compute-1.amazonaws.com/).
 
+
+### C#
 ![cSharp](./assets/globalATM.png)
 C# project can be found [here](http://ec2-3-89-75-4.compute-1.amazonaws.com/).
 
